@@ -1,4 +1,5 @@
 JavaScript is a single-threaded language which means it executes one task at a time.
+Js is Object Oriented programming language which means it mostly based on concept of objects for storing most kind of data.
 
 Key Features of JavaScript
 Client-Side Scripting: JavaScript runs on the user’s browser, so has a faster response time without needing to communicate with the server.
